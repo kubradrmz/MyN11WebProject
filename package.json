@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "edge": "^7.10.1",
+    "puppeteer": "^21.6.1",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
